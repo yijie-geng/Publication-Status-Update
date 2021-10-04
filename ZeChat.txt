@@ -1,4 +1,4 @@
-Current Publication Status: In Submission.
+Current Publication Status: Submitted
 
 Geng Y*, Peterson RT* (2021). 
 Unsupervised deep learning reveals a stimulative effect of dopamine D3 receptor agonists on zebrafish sociality. 
