@@ -1,4 +1,4 @@
-Current Publication Status: Submitted
+Current Publication Status: Submitted.
 
 Geng Y*, Peterson RT* (2021). 
 Social behavioral profiling by unsupervised deep learning reveals a stimulative effect of dopamine D3 agonists on zebrafish sociality. 
